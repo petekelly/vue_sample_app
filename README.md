@@ -9,6 +9,7 @@ To set up the app:
 
 1. Install node
 1. Install npm
+1. Install vue CLI `npm i -g @vue/cli`
 1. Clone this repo
 1. cd into hello-world directory and run `npm install`
 1. Run `npm run serve`
